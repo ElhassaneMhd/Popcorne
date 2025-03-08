@@ -2,8 +2,6 @@
 
 A modern and interactive movie discovery web application that allows users to explore, search, and filter movies based on popularity, ratings, and trends.  
 
-![Screenshot](screenshot.png)  
-
 ## 🚀 Features  
 ✅ **Search for Movies** – Instantly find movies using the search bar.  
 ✅ **Trending, Popular, and Top-Rated Filters** – Discover trending and highly-rated films.  
